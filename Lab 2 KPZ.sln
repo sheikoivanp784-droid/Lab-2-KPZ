@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 2 KPZ", "Lab 2 KPZ\Lab 2 KPZ.csproj", "{560E644D-6524-4076-A55C-51E7DF10527E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes3DLibrary", "Shapes3DLibrary\Shapes3DLibrary.csproj", "{75582E0E-255D-45C2-86CF-AB3959FA066B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{560E644D-6524-4076-A55C-51E7DF10527E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560E644D-6524-4076-A55C-51E7DF10527E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560E644D-6524-4076-A55C-51E7DF10527E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560E644D-6524-4076-A55C-51E7DF10527E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75582E0E-255D-45C2-86CF-AB3959FA066B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75582E0E-255D-45C2-86CF-AB3959FA066B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75582E0E-255D-45C2-86CF-AB3959FA066B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75582E0E-255D-45C2-86CF-AB3959FA066B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48527064-C294-4452-9A97-9429480AA674}
+	EndGlobalSection
+EndGlobal
